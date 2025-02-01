@@ -26,5 +26,5 @@ https://community.kodular.io/t/free-textanimation-extension/122899?u=taifun
 free extension 
 https://community.appinventor.mit.edu/t/free-lottieview-extension-in-your-app-online-data/34801?u=taifun
 
-Thanks and Regards 
+## Thanks and Regards 
 TechHamara 
