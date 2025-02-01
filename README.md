@@ -1,4 +1,4 @@
-# Th_Free_Extensions
+# Th_Extensions
 App inventor Extension list
 ## Connect with me on [Telegram](https://t.me/techhamara91)
 
