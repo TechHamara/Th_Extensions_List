@@ -2,22 +2,27 @@
 App inventor Extension list
 ## Connect with me on [Telegram](https://t.me/techhamara91)
 
+## Text Path
+free extension [here](https://github.com/TechHamara/TextPath)
+
 ## Pattern Connect
-https://github.com/TechHamara/pattern-connect
+free extension [here](
+https://github.com/TechHamara/pattern-connect)
 
 ## ThChromeCast Extension 
 Open Source 
-here https://github.com/TechHamara/ThChromeCast
+[here](https://github.com/TechHamara/ThChromeCast)
 
 ## Circular menu x 
 free extension <br>
 📅 **Updated On:** 
 [date=2025-01-31 timezone="Indian/Maldives"] <br>
-https://github.com/TechHamara/CircularMenuX
+[here](
+https://github.com/TechHamara/CircularMenuX)
 <br>
 ## Salary calculator
-free extension 
-https://community.kodular.io/t/my-first-salarycalculator-extention-free/86933?u=taifun
+free extension [here](
+https://community.kodular.io/t/my-first-salarycalculator-extention-free/86933?u=taifun)
 ## GST Calculator 
 free extension 
 https://community.kodular.io/t/gst-calculator-extension-free/87329?u=taifun
