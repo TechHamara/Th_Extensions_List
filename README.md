@@ -2,6 +2,10 @@
 App inventor Extension list
 ## Connect with me on [Telegram](https://t.me/techhamara91)
 
+## Path Maker
+  Paid
+  [here](https://github.com/TechHamara/path-maker/tree/main)
+
 ## Text Path
 free extension [here](https://github.com/TechHamara/TextPath)
 
