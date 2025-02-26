@@ -2,6 +2,10 @@
 App inventor Extension list
 ## Connect with me on [Telegram](https://t.me/techhamara91)
 
+## Background Video Recorder
+  paid
+  [here](https://github.com/TechHamara/background-video-recorder)
+  
 ## Path Maker
   Paid
   [here](https://github.com/TechHamara/path-maker/tree/main)
