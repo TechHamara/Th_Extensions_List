@@ -2,6 +2,8 @@
 App inventor Extension list
 ## Connect with me on [Telegram](https://t.me/techhamara91)
 
+## XChart - XChart is a powerful radar chart component for App Inventor
+  Paid [here](https://github.com/TechHamara/XChart-Extension-for-App-inventor)
 ## Background Video Recorder
   paid
   [here](https://github.com/TechHamara/background-video-recorder)
