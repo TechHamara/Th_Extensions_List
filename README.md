@@ -5,7 +5,7 @@ App inventor Extension list
 ## Word Connect
   Word Connect extension to create fun and engaging word puzzle game for app inventor.<br>
   Paid Extension<br>
-  Comming Soon
+  ![here](https://github.com/TechHamara/Word-Connect)
 
 ## XChart - XChart is a powerful radar chart component for App Inventor
   Paid [here](https://github.com/TechHamara/XChart-Extension-for-App-inventor)
