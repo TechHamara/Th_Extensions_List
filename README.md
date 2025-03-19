@@ -2,9 +2,11 @@
 App inventor Extension list
 ## Connect with me on [Telegram](https://t.me/techhamara91)
 
-## Maths Flowers 
-Free 
+## Maths Flowers  
 [here](https://github.com/TechHamara/math-flowers)
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| Maths Flowers | MathFlowers lets you create beautiful mathematical flower patterns on a canvas.Set numerator and denominator values to create different patterns. | Free | ![41010d97-267e-4416-8f4f-23ddf9585a9c.gif](https://github.com/user-attachments/assets/8c6a1227-22e5-43ac-9ee1-0508d8f57867)
 
 ## Word Connect
   Word Connect extension to create fun and engaging word puzzle game for app inventor.<br>
