@@ -2,6 +2,10 @@
 App inventor Extension list
 ## Connect with me on [Telegram](https://t.me/techhamara91)
 
+## Maths Flowers 
+Free 
+[here](https://github.com/TechHamara/math-flowers)
+
 ## Word Connect
   Word Connect extension to create fun and engaging word puzzle game for app inventor.<br>
   Paid Extension<br>
