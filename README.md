@@ -16,7 +16,11 @@ Check out [here](https://github.com/TechHamara/Lock-Puzzle)
 | - | - | - | - |
 | Lock Puzzle | A circular number puzzle component for ai2. | Free | ![e6351e28-30da-458a-9dda-0b8382bdb97b.gif](https://github.com/user-attachments/assets/a18c3785-150f-4b67-910d-63b4f45cddac)
 
------
+## Bezier Loading
+Check out [here](https://github.com/TechHamara/bezierloading/edit/main/README.md)
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| Bezier Loading | A cool loading view with Bezier and a smooth circular motion. | Free | ![311baa23-4c5b-4f2d-a89b-942ed8f4a6e7.gif](https://github.com/user-attachments/assets/7c94c624-3ed4-4522-b5aa-72b4086d20a1)
 
 ## Maths Flowers  
 Check out [here](https://github.com/TechHamara/math-flowers)
