@@ -10,6 +10,13 @@
 
 -----
 
+## Circular-Motion-View  
+Comming soon..
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| CircularMotionView | A circular motion view component that displays boxes moving in a circular path. | 🆓 | ![fbc8ed1d-d495-45b9-b3a7-704d3cfd1eb9.gif](https://github.com/user-attachments/assets/9e261a6d-915c-4766-bd3f-efe3ce1f3208)
+
+
 ## Lock Puzzle  
 Check out [here](https://github.com/TechHamara/Lock-Puzzle)
 | Extension Name | Descriptions | Price | Output |
