@@ -10,6 +10,15 @@
 
 -----
 
+
+## Analog Clock  
+Check out [here](https://github.com/TechHamara/Analog-Clock)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| Analog Clock | A advanced Analog Clock extension for App Inventor. | 🆓 | ![0ad19913-8d30-4350-931f-8b0ff95b5de2.gif](https://github.com/user-attachments/assets/4f9f675c-e361-4356-adbc-7ce404cb2f20)
+
+
 ## Circular-Motion-View  
 Comming soon..
 | Extension Name | Descriptions | Price | Output |
