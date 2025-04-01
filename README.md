@@ -1,5 +1,7 @@
 # Th_Extensions
 
+## ![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/TechHamara/Th_Extensions_List/visits)
+
 <div align="center">
 <h1><kbd>🧩 App inventor Extension list</kbd></h1>
 <br>
