@@ -1,5 +1,7 @@
 # Th_Extensions
 
+![Visitor Count](https://hits.sh/TechHamara/Th_Extensions_List.svg)
+
 ## ![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/TechHamara/Th_Extensions_List/visits)
 
 -----
