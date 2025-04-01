@@ -1,0 +1,33 @@
+name: Visitor Counter
+
+on:
+  push:
+    branches:
+      - main
+  page_build:
+  workflow_dispatch:
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update visitor count
+        run: |
+          COUNT_FILE="counter.txt"
+          if [ ! -f "$COUNT_FILE" ]; then
+            echo 1 > $COUNT_FILE
+          else
+            COUNT=$(cat $COUNT_FILE)
+            echo $((COUNT + 1)) > $COUNT_FILE
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add counter.txt
+          git commit -m "Update visitor count"
+          git push
