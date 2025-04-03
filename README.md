@@ -18,6 +18,12 @@
 
 -----
 
+## Color Switch  
+Check out [here](https://github.com/TechHamara/Color-Switch)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| Color Switch | A Color Switch game component that creates an engaging endless runner game. | 🆓 | ![cd5cc140-26d2-40f6-92c9-84ec06b069c1.gif](https://github.com/user-attachments/assets/fe262819-7811-4f55-b7aa-6d5909568f86)
 
 ## Analog Clock  
 Check out [here](https://github.com/TechHamara/Analog-Clock)
