@@ -91,12 +91,15 @@ Check out [here](https://github.com/TechHamara/pattern-connect)
 Open Source 
 [here](https://github.com/TechHamara/ThChromeCast)
 
-## Circular menu x 
-free extension <br>
-📅 **Updated On:** 
-[date=2025-01-31 timezone="Indian/Maldives"] <br>
-[here](
-https://github.com/TechHamara/CircularMenuX)
+## CircularMenuX 
+
+Check out [here](https://github.com/TechHamara/CircularMenuX)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| CircularMenuX | It allows you to create an interactive circular menu with customizable properties such as colors, sizes, and behaviors. | 🆓 | ![demo6](https://github.com/TechHamara/CircularMenuX/blob/main/demo/demo6.gif)
+
+
 <br>
 ## Salary calculator
 free extension [here](
