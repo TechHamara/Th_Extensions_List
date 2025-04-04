@@ -17,6 +17,13 @@
 
 -----
 
+## MasicDraw  
+Check out [here](https://github.com/TechHamara/MasicDraw)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| MasicDraw | A designed to facilitate the creation of visually appealing, symmetrical mandala patterns. | 🆓 | ![3c87950e-425f-434b-952b-0a182b41b326.gif](https://github.com/user-attachments/assets/31a4808d-73db-4abf-8d63-204d708a05d9)
+
 ## Color Switch  
 Check out [here](https://github.com/TechHamara/Color-Switch)
 
