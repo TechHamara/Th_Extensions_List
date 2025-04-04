@@ -1,6 +1,6 @@
 # Th_Extensions
 
-## Visitor Count
+## Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/TechHamara/count.svg)
 
