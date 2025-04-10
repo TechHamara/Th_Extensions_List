@@ -17,6 +17,13 @@
 
 -----
 
+## resistor-calculator  
+Check out [here](https://github.com/TechHamara/resistor-calculator)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| resistor-calculator | A designed to Resistor Calculator and Draw a resistor with color bands. | 🆓 | ![out](https://github.com/user-attachments/assets/c8b10529-0276-4bbc-8fdb-e35069786580)
+
 ## MasicDraw  
 Check out [here](https://github.com/TechHamara/MasicDraw)
 
