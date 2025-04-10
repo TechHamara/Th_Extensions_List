@@ -17,6 +17,13 @@
 
 -----
 
+## CustomLatter  
+Check out Comming Soon..
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| CustomLatter | A display and animate letters with customizable colors,n sizes, and various animation effects. | Paid | ![out]()
+
 ## resistor-calculator  
 Check out [here](https://github.com/TechHamara/resistor-calculator)
 
