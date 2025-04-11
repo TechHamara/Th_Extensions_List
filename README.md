@@ -18,11 +18,12 @@
 -----
 
 ## CustomLatter  
-Check out Comming Soon..
+Check out [Check out](https://github.com/TechHamara/CustomLatter)
 
 | Extension Name | Descriptions | Price | Output |
 | - | - | - | - |
-| CustomLatter | A display and animate letters with customizable colors,n sizes, and various animation effects. | Paid | ![out]()
+| CustomLatter | A display and animate letters with customizable colors,n sizes, and various animation effects. | Paid | ![out]![photo_2025-04-11_13-01-17](https://github.com/user-attachments/assets/529bbbf5-a762-452d-9304-9a2712184def)
+
 
 ## resistor-calculator  
 Check out [here](https://github.com/TechHamara/resistor-calculator)
