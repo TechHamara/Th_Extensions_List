@@ -17,6 +17,14 @@
 
 -----
 
+
+## Mockup  
+Check out soon..
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| Mockup | This component provides a realistic mobile device mockup with various notch types and physical buttons. | Paid | ![out]![]()
+
 ## CustomLatter  
 Check out [Check out](https://github.com/TechHamara/CustomLatter)
 
