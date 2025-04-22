@@ -25,6 +25,13 @@ Check out soon..
 | - | - | - | - |
 | Mockup | This component provides a realistic mobile device mockup with various notch types and physical buttons. | Paid | ![mockup.jpg](https://github.com/user-attachments/assets/a5749a73-7fca-4a7d-b02c-ea6e22db2847)
 
+## DiceRoll  
+Check out [here](https://github.com/TechHamara/DiceRoll)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| DiceRoll | Dice Roller extension to roll a dice and fire event with the number. | Free | ![Screenshot_2025-04-22-16-44-11-336_appinventor.ai_Techhamara91.dice_roll.jpg](https://github.com/user-attachments/assets/c59af6dd-d1d9-4342-9ffe-3e0ab1418ac0)
+
 ## CustomLatter  
 Check out [Check out](https://github.com/TechHamara/CustomLatter)
 
