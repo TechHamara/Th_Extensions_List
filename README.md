@@ -18,6 +18,13 @@
 -----
 
 
+## Bubble Charging  
+Check out [here](https://github.com/TechHamara/bubble-charging)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| Bubble Charging | This component provides a realistic Bubble Charging like Fast Charging Animation. | Free | ![ad7a096d-b94e-49ab-a23d-79cf2cce9445.gif](https://github.com/user-attachments/assets/41ca2a6a-ea91-40f0-8b8d-d621f5e0aebc) 
+
 ## Mockup  
 Check out soon..
 
