@@ -17,6 +17,13 @@
 
 -----
 
+## CurtainMenu 
+Check out [here](https://github.com/TechHamara/curtain-menu)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| CurtainMenu | A sliding menu that implements a curtain effect when opening the menu. | Paid | ![Gif1.gif](https://github.com/user-attachments/assets/941e477f-6067-438f-8da6-b53172e09be5)
+
 ## Broken 
 Check out [here](https://github.com/TechHamara/broken)
 
