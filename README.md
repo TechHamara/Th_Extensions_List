@@ -17,6 +17,12 @@
 
 -----
 
+## Broken 
+Check out [here](https://github.com/TechHamara/broken)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| Broken | A realistic glass breaking effect to any view. | Paid | ![5294bc6a-3b33-4827-ae81-d6292a7c57ad.gif](https://github.com/user-attachments/assets/fa396e05-b84e-4d00-a3b2-c602a0629216)
 
 ## Bubble Charging  
 Check out [here](https://github.com/TechHamara/bubble-charging)
