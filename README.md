@@ -17,7 +17,17 @@
 
 -----
 
+
+## UIStyle
+
+Check out [here](https://github.com/TechHamara/UIStyle)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| UIStyle | A range of styling options for HVArrangements. | Free | ![photo_2025-05-10_18-39-23](https://github.com/user-attachments/assets/30b76342-3b4f-418a-81f5-822739902c50)
+
 ## CurtainMenu 
+
 Check out [here](https://github.com/TechHamara/curtain-menu)
 
 | Extension Name | Descriptions | Price | Output |
