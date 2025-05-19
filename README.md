@@ -17,6 +17,14 @@
 
 -----
 
+## DNAView
+
+Check out [here](https://github.com/TechHamara/DNAView)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| DNAView | A users to delve into the fascinating world of human anatomy and genetics. | Free | ![Screenshot_2025-05-19-07-48-09-317_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/6ddab1c9-567a-461e-8574-6b2f05833259)
+
 
 ## UIStyle
 
