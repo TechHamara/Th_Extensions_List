@@ -17,6 +17,31 @@
 
 -----
 
+## LoadingCar
+
+Check out [here](https://github.com/TechHamara/loading-car)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| LoadingCar | A users loading animation for a car. | Free | ![b26941e6-ab5d-459b-9596-330e9d6b14b3.gif](https://github.com/user-attachments/assets/109fd494-d0ce-4b6b-8a31-257c6b02fe3c)
+
+## AmbientLight
+
+Check out [here](https://github.com/TechHamara/AmbientLight)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| AmbientLight | A users creates a glowing effect around screen edges. | Free | ![IMG_20250529_161749.jpg](https://github.com/user-attachments/assets/9d37e316-44e1-4083-bb4d-c57ea183062f)
+
+## RulerView
+
+Check out [here](https://github.com/TechHamara/RulerView)
+
+| Extension Name | Descriptions | Price | Output |
+| - | - | - | - |
+| RulerView | A users to scroll and select a value on a ruler scale. | Free | ![cf72ef2c-714a-401c-909f-0ab82c5869c4.gif](https://github.com/user-attachments/assets/f24dc3fa-a32c-4fce-a2b8-6b3a2d194049)
+![12b81ebd-ffe3-4e03-8aef-3007419691aa.gif](https://github.com/user-attachments/assets/b73e9c50-1e93-4c41-93fd-7afca5ea7e40)
+
 ## DNAView
 
 Check out [here](https://github.com/TechHamara/DNAView)
